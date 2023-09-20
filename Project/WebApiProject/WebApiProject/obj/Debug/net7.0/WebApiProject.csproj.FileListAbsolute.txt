@@ -1,0 +1,269 @@
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.exe
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.deps.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.runtimeconfig.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.pdb
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiProject.props
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\scopedcss\bundle\WebApiProject.styles.css
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CopyComplete
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\refint\WebApiProject.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.pdb
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.genruntimeconfig.cache
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\obj\Debug\net7.0\ref\WebApiProject.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Eman Hamza\Desktop\Angularwebapi Projects\webapi\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.Development.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.exe
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.deps.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.runtimeconfig.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.pdb
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Core.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Identity.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Humanizer.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Cors.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.CodeDom.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.AssemblyReference.cache
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfoInputs.cache
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfo.cs
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CoreCompileInputs.cache
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiProject.props
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\scopedcss\bundle\WebApiProject.styles.css
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CopyComplete
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\refint\WebApiProject.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.pdb
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.genruntimeconfig.cache
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\ref\WebApiProject.dll
+E:\ITI_Intak43\Angular\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.staticwebassets.runtime.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.Development.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\appsettings.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.staticwebassets.runtime.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.exe
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.deps.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.runtimeconfig.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\WebApiProject.pdb
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Core.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Azure.Identity.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Humanizer.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Cors.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.CodeDom.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.AssemblyReference.cache
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfoInputs.cache
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.AssemblyInfo.cs
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CoreCompileInputs.cache
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiProject.props
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.build.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\staticwebassets.development.json
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\scopedcss\bundle\WebApiProject.styles.css
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.csproj.CopyComplete
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\refint\WebApiProject.dll
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.pdb
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\WebApiProject.genruntimeconfig.cache
+D:\Interview Projects\work anytime\Project\WebApiProject\WebApiProject\obj\Debug\net7.0\ref\WebApiProject.dll

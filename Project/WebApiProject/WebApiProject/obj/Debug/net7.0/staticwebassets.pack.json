@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\PIXIEMARKET020701.jpg",
+      "PackagePath": "staticwebassets\\images\\PIXIEMARKET020701.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\PIXIEMARKET0310220.jpg",
+      "PackagePath": "staticwebassets\\images\\PIXIEMARKET0310220.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\PIXIEMARKET03102226768b.jpg",
+      "PackagePath": "staticwebassets\\images\\PIXIEMARKET03102226768b.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task3_stage2.PNG",
+      "PackagePath": "staticwebassets\\images\\Task3_stage2.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task3_stage3.PNG",
+      "PackagePath": "staticwebassets\\images\\Task3_stage3.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task4_stage2.PNG",
+      "PackagePath": "staticwebassets\\images\\Task4_stage2.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task4_stage3.PNG",
+      "PackagePath": "staticwebassets\\images\\Task4_stage3.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task5_stage1.PNG",
+      "PackagePath": "staticwebassets\\images\\Task5_stage1.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Task5_stage3.PNG",
+      "PackagePath": "staticwebassets\\images\\Task5_stage3.PNG"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\Upwork projects.png",
+      "PackagePath": "staticwebassets\\images\\Upwork projects.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\WIN_20221219_12_26_04_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\WIN_20221219_12_26_04_Pro.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\dd (2).jpg",
+      "PackagePath": "staticwebassets\\images\\dd (2).jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\dunkin.png",
+      "PackagePath": "staticwebassets\\images\\dunkin.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\hager1.png",
+      "PackagePath": "staticwebassets\\images\\hager1.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\hager2.png",
+      "PackagePath": "staticwebassets\\images\\hager2.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\hagersend.png",
+      "PackagePath": "staticwebassets\\images\\hagersend.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\onea.jpg",
+      "PackagePath": "staticwebassets\\images\\onea.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\photo1679059865 (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\photo1679059865 (2).jpeg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\photo_2022-08-01_14-47-36.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2022-08-01_14-47-36.jpg"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\rahma2.png",
+      "PackagePath": "staticwebassets\\images\\rahma2.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\rahmarecieve.png",
+      "PackagePath": "staticwebassets\\images\\rahmarecieve.png"
+    },
+    {
+      "Id": "D:\\Interview Projects\\work anytime\\Project\\WebApiProject\\WebApiProject\\wwwroot\\images\\w.png",
+      "PackagePath": "staticwebassets\\images\\w.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApiProject.props",
+      "PackagePath": "build\\WebApiProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiProject.props",
+      "PackagePath": "buildMultiTargeting\\WebApiProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApiProject.props",
+      "PackagePath": "buildTransitive\\WebApiProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
